@@ -1,0 +1,39 @@
+git init ==> initialization
+
+git status  == > red means not untracked 
+
+git status  ===>  green tracked 
+
+git add . ==> add file from staging to  
+
+git add script.js ===> one file moved from working directory to staging
+
+git commit -m "message"
+
+git log 
+
+git show HEAD
+
+git diff
+
+git checkout HEAD filename
+
+git reset HEAD filename
+
+
+git clone (url) ===> place where were remote repo
+
+
+git branch 
+
+git branch  A 
+
+git checkout A  
+
+(We should be in  master)
+
+git merge A
+
+git push origin A (branch)
+
+git branch -d A
